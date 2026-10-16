@@ -10,7 +10,6 @@ At Scopely I work on the Stumble Guys server and live cluster team.
 - **[telegram-downloader](https://github.com/rfsbraz/telegram-downloader)** is a self-hosted daemon that downloads new files from Telegram channels, groups and forum topics as they are posted, with filters and duplicate detection. About <!-- stat:telegram-downloader-pulls -->16,500<!-- /stat --> Docker Hub pulls.
 - **[Steam Hardware Stock Tracker](https://steamhardwarestock.com)** checks the Steam store every 10 minutes and sends a browser alert when Valve hardware like the Steam Deck is in stock.
 - **[Geocaching.com Friends Logs](https://github.com/rfsbraz/Geocaching.com-Friends-Logs)** is a browser extension that shows your friends' logs at the top of every cache page. Available for Chrome, Firefox, Edge and Opera.
-- **[pytulli](https://github.com/rfsbraz/pytulli)** is a Python client for the Tautulli API.
 
 ### Security research
 
