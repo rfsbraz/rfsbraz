@@ -9,6 +9,12 @@ on:
         description: "Show the diff without committing"
         type: boolean
         default: true
+  # dry run on PRs that touch the README or this job; the commit step only pushes on master
+  pull_request:
+    paths:
+      - README.md
+      - .github/scripts/**
+      - .github/workflows/readme-stats.yml
 
 permissions:
   contents: write
