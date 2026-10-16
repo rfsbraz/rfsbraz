@@ -1,17 +1,23 @@
-### Hi, I'm Rodrigo 👋
+## Rodrigo Braz
 
-Software engineer from Portugal. I build tools for the things I self-host, and I like understanding how systems break.
+Senior Server Engineer at Scopely, based in Lisbon. On the side I build SaaS and open-source tools.
 
-- 🔭 **Open source I maintain**
-  - **[deleterr](https://github.com/rfsbraz/deleterr)** — automated Plex library cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications, driven by Radarr / Sonarr / Tautulli.
-  - **[telegram-downloader](https://github.com/rfsbraz/telegram-downloader)** — a configurable downloader that mirrors media from Telegram channels into your library.
-  - **[Geocaching.com Friends Logs](https://github.com/rfsbraz/Geocaching.com-Friends-Logs)** — a browser extension that surfaces your friends' logs right on the cache page (Chrome, Firefox, Edge, Opera).
-  - **[pytulli](https://github.com/rfsbraz/pytulli)** — a Python client for the Tautulli API.
+At Scopely I work on the Stumble Guys server and live cluster team.
 
-- 🔒 **Security research** — I poke at the self-hosting tools I run. See **[huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review)**, a reproducible lab demonstrating an unauthenticated auth-bypass in Huntarr.
+### Open source I maintain
 
-- 🛠️ **Currently building** — self-hosted apps for my own use: 3D-printing shop management, home dashboards, and automation around a fairly over-engineered homelab.
+- **[deleterr](https://github.com/rfsbraz/deleterr)** cleans up a Plex library on a schedule, using watch history and exclusion rules, and warns users with a "Leaving Soon" collection before anything is removed. 342 stars, about 29,700 Docker Hub pulls.
+- **[telegram-downloader](https://github.com/rfsbraz/telegram-downloader)** is a self-hosted daemon that downloads new files from Telegram channels, groups and forum topics as they are posted, with filters and duplicate detection. About 16,500 Docker Hub pulls.
+- **[Steam Hardware Stock Tracker](https://steamhardwarestock.com)** checks the Steam store every 10 minutes and sends a browser alert when Valve hardware like the Steam Deck is in stock.
+- **[Geocaching.com Friends Logs](https://github.com/rfsbraz/Geocaching.com-Friends-Logs)** is a browser extension that shows your friends' logs at the top of every cache page. Available for Chrome, Firefox, Edge and Opera.
+- **[pytulli](https://github.com/rfsbraz/pytulli)** is a Python client for the Tautulli API.
 
-- 🌱 **Into** — self-hosting, the *arr ecosystem, 3D printing, geocaching, and home automation.
+### Security research
 
-- ☕ If something I made saved you time, you can [buy me a coffee](https://buymeacoffee.com/rfsbraz) — no pressure at all.
+**[huntarr-security-review](https://github.com/rfsbraz/huntarr-security-review)** is a code review of Huntarr 9.4.2 with 21 findings, 7 of them critical, and a lab that reproduces them in GitHub Actions.
+
+### Elsewhere
+
+[rodrigobraz.com](https://rodrigobraz.com) · [LinkedIn](https://www.linkedin.com/in/rfsbraz) · [Bluesky](https://bsky.app/profile/rfsbraz.com)
+
+If something I made saved you time, you can [buy me a coffee](https://buymeacoffee.com/rfsbraz).
